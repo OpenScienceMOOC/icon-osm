@@ -1,11 +1,11 @@
 # Icon-OSM
 
-Font-OSM is a custom font that we use on OpenScienceMOOC website. It is based on Font-Awesome, Fork-Awesome and on some icons that we added.
+Icon-OSM is an icons pack that we use on OpenScienceMOOC website. It is 
+based on [Beautiful Flat Icons pack by Elegant Themes][bfi].
 
 ## License
 
-Copyright (C) 2019 Danny Colin
-Copyright (C) 2013 Elegant Themes
+Copyright (C) 2019 Danny Colin, 2013 Elegant Themes
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -23,4 +23,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ## Additional notes
 
-This project is based on the [Beautiful Flat Icons pack by Elegant Themes](https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free). 
+This project is based on the [Beautiful Flat Icons pack by Elegant Themes][bfi]. 
+
+[bfi]: https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free
